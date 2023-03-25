@@ -1,0 +1,1 @@
+Projeto de front-end em AngularJS com lista de filmes, para executar basta abrir o arquivo de index.html
